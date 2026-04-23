@@ -14,3 +14,4 @@ tags
 # coverage and profilte outputs
 *.out
 
+.polyresearch-node.toml
